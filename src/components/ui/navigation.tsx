@@ -26,7 +26,7 @@ export function Navigation() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="text-2xl font-bold text-primary animate-bounce-in">
-            {t('nav.portfolio') || 'Portfolio'}
+            {t('HEGAZY.com') || 'HEGAZY.com'}
           </Link>
 
           {/* Desktop Navigation */}
